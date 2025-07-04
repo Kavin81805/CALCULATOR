@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BB {
+public class ABC {
 
     public static void main(String[] args) {
         double a,b,c,d,e;
