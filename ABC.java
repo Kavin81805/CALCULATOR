@@ -18,7 +18,7 @@ public class ABC {
         System.out.println("Multiplication of a,b,c is = "+d);
         e = (a+b+c);
         System.out.println("Addition of a,b,c = "+e);
-        System.out.println("Now ("+d+") divided by ("+e+") is = "+(d/c));
+        System.out.println("Now ("+d+") divided by ("+e+") is = "+(d/e));
     }
     
 }
