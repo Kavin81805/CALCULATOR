@@ -10,7 +10,7 @@ int main(){
     cin>>n1;
     cout<<"Enter the operator (+ , - , * , /) :";
     cin>>op;
-    cout<<"Enter Secount number :";
+    cout<<"Enter Second number :";
     cin>>n2;
 
     switch (op) {
